@@ -1,0 +1,23 @@
+{
+  "name": "express-mysql",
+  "version": "1.0.0",
+  "description": "https://github.com/ityuhui/technical-notes-wiki-kc-todo/blob/master/%E4%BD%BF%E7%94%A8docker%E6%90%AD%E5%BB%BA%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.md#mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ityuhui/node-express-mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ityuhui/node-express-mysql/issues"
+  },
+  "homepage": "https://github.com/ityuhui/node-express-mysql#readme",
+  "dependencies": {
+    "mysql2": "^2.3.3"
+  }
+}
